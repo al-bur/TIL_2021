@@ -1,4 +1,4 @@
-## [20210120] 파이썬, The 'return' statement에 대해서
+## [210120] 파이썬, The 'return' statement에 대해서
 
 ### 1. 주제를 고른 이유에 대하여
 
@@ -37,6 +37,8 @@
 > In a generator function, the [`return`](https://docs.python.org/3/reference/simple_stmts.html#return) statement indicates that the generator is done and will cause [`StopIteration`](https://docs.python.org/3/library/exceptions.html#StopIteration) to be raised. The returned value (if any) is used as an argument to construct [`StopIteration`](https://docs.python.org/3/library/exceptions.html#StopIteration) and becomes the `StopIteration.value` attribute.
 >
 > In an asynchronous generator function, an empty [`return`](https://docs.python.org/3/reference/simple_stmts.html#return) statement indicates that the asynchronous generator is done and will cause [`StopAsyncIteration`](https://docs.python.org/3/library/exceptions.html#StopAsyncIteration) to be raised. A non-empty `return` statement is a syntax error in an asynchronous generator function.
+>
+> [출처: python documentaton](https://docs.python.org/3/reference/simple_stmts.html)
 
 
 

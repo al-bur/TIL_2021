@@ -82,11 +82,11 @@
 
 1. print() 사용
 
-![image-20210121231203913](C:\Users\ssmin\OneDrive\바탕 화면\[20210120] 파이썬, The 'return' statement에 대해서.assets\image-20210121231203913.png)
+![print](https://user-images.githubusercontent.com/64825713/105362952-d8cd6800-5c3e-11eb-8f13-485d0b7e74a0.JPG)
 
 2. return 사용
 
-![image-20210121231215863](C:\Users\ssmin\OneDrive\바탕 화면\[20210120] 파이썬, The 'return' statement에 대해서.assets\image-20210121231215863.png)
+![return](https://user-images.githubusercontent.com/64825713/105362950-d79c3b00-5c3e-11eb-931a-14b2da50d583.JPG)
 
 
 

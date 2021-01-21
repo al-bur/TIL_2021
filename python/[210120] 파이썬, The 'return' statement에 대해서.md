@@ -46,22 +46,52 @@
 
 ---
 
-`return` 은 문법 구조상으로 함수 정의안에서 nested<함수정의 안에서만 기능>하게 일어난다. (class보다는 작은 범위)
+`return` 은 문법 구조상으로 함수 정의안에서` nested`<함수정의 안에서만 기능>하게 일어난다. (class보다는 작은 범위)
 
-표현식이 존재할 때, 값으로 변환될 수 있지만 존재하지 않으면 None값으로 대체 된다.
+표현식이 존재할 때, 값으로 변환될 수 있지만 존재하지 않으면 `None`값으로 대체 된다.
 
 *표현식 : 값으로 변화될 수 있는 문장
 
 `return`은 표현식과 함께 현재 호출된 함수에서 떠난다.
 
-`return`이 finally clause와 함께 try statement의 통제권을 벗어났을 때, 그 finally clause는 정말로 함수를 떠나기전에 실행된다.
+`return`이 `finally clause`와 함께 `try statement`의 통제권을 벗어났을 때, 그 `finally clause`는 정말로 함수를 떠나기전에 실행된다.
 
-'generator 함수'에서, `return`문은 generator가 실행됐고 'StopIteration'이 실행될 것이다라고 알려준다. 반환된 값은 'StopIteration'을 구축하기 위한 인자로 사용되고 그것의 value가 된다.
+`generator 함수`에서, `return`문은 generator가 실행됐고 `StopIteration`이 실행될 것이다라고 알려준다. 반환된 값은 `StopIteration`을 구축하기 위한 인자로 사용되고 그것의 value가 된다.
+
+`비동기 generator함수`에서, 빈 `return`문은 `비동기 generator`가 작동했다는 것을 뜻하고 `StopAsyncIteration`이 raise된다. 비어있지 않은 `return`문은 비동기 `generator 함수`에서 sytax error이다. 
 
 
 
-**
+* generator 함수 == iterator를 생성해주는 함수
 
-** generator 함수 == iterator를 생성해주는 함수
+* finally clause == 무슨 일이 있던지 실행 되는 절
 
-** finally clause == run no matter what else happens
+
+
+상기 번역본은 지속적으로 다듬어 나갈 예정입니다. 
+
+아직까지는 지식이 많이 없어 해석을 자세히 할 수 없었고 앞으로 더욱 다듬어 가겠습니다
+
+
+
+### 3. print vs return
+
+---
+
+`jupyter notebook`으로 코딩을 하다보면 print()와 return을 사용하면 둘 다 값을 출력하는 것처럼 보인다.
+
+1. print() 사용
+
+![image-20210121231203913](C:\Users\ssmin\OneDrive\바탕 화면\[20210120] 파이썬, The 'return' statement에 대해서.assets\image-20210121231203913.png)
+
+2. return 사용
+
+![image-20210121231215863](C:\Users\ssmin\OneDrive\바탕 화면\[20210120] 파이썬, The 'return' statement에 대해서.assets\image-20210121231215863.png)
+
+
+
+이렇게 보면 둘 다 print라는 것을 출력하는 것처럼 보인다. 하지만 차이점은 분명히 있다. 
+
+print()는 정말로 보여주기 위해 출력을 하는 것이고 return은 출력은 하지 않고 a라는 값을 반환하는 것이다.
+
+return 또한 출력하는 것처럼 보이지만 `Out[11]`이라고 적혀있는 것을 보면 반환한다라는 것을 알 수 있다.

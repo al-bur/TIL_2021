@@ -20,6 +20,7 @@
 ### Algorithm
 ---
 - [[210119] 알고리즘 - SWEA 1933. 간단한 N 의 약수](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/[20210119]%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20SWEA%201933.%20%EA%B0%84%EB%8B%A8%ED%95%9C%20N%20%EC%9D%98%20%EC%95%BD%EC%88%98%20.md)
+- [[[210124] 알고리즘 - SWEA 1933. 간단한 N 의 약수](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/%5B210124%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20SWEA%201933.%20%EA%B0%84%EB%8B%A8%ED%95%9C%20N%20%EC%9D%98%20%EC%95%BD%EC%88%98%20.md)
 
 ### CS
 ---

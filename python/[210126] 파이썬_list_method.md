@@ -1,4 +1,4 @@
-## [210126] 파이썬, list의 method
+## [210126] 파이썬_list_method
 
 ### 1. 주제를 고른 이유에 대하여
 
@@ -22,7 +22,7 @@ python documentation을 통해 여러 method에 대한 정의와 예시들을 �
 
 -> 리스트 끝에 항목을 추가한다.
 
-
+<br>
 
 > `list.extend`(*iterable*)
 >
@@ -34,7 +34,7 @@ ex) string = 'app'을 list.extend(string)을 해주게되면 -->  list = ['a', '
 
 append(string)을 해주게 되면 -> list = ['app']으로 추가가 되는 차이가 있습니다.
 
-
+<br>
 
 > `list.insert`(*i*, *x*)
 >
@@ -42,7 +42,7 @@ append(string)을 해주게 되면 -> list = ['app']으로 추가가 되는 차�
 
 -> 항목을 원하는 위치에 삽입을 해준다. 첫 번째 `i`인자는 요소를 삽입하기 `전`에 위치한 인덱스를 가리킵니다.
 
-
+<br>
 
 > `list.remove`(*x*)
 >
@@ -50,7 +50,7 @@ append(string)을 해주게 되면 -> list = ['app']으로 추가가 되는 차�
 
 -> `list`에서 인자 `x`와 동일한 가장 첫 번째 값을 삭제 해준다. 만약에 일치하는 값이 없으면 `ValueError`를  발생시킵니다.
 
-
+<br>
 
 > `list.pop`([*i*])
 >
@@ -60,7 +60,7 @@ append(string)을 해주게 되면 -> list = ['app']으로 추가가 되는 차�
 
 `i`인자는 필수 요소가 아닌 `optional`입니다.
 
-
+<br>
 
 > `list.clear`()
 >
@@ -68,7 +68,7 @@ append(string)을 해주게 되면 -> list = ['app']으로 추가가 되는 차�
 
 -> `list`에 있는 모든 항목들을 제거합니다.
 
-
+<br>
 
 > `list.index`(*x*[, *start*[, *end*]])
 >
@@ -76,7 +76,7 @@ append(string)을 해주게 되면 -> list = ['app']으로 추가가 되는 차�
 
 -> 인자 `x`와 같은 값을 가지는 첫 번째 항목을 리스트에서 반환합니다. 만약 만족하는 값이 없다면 `ValueError`를 반환합니다. 선택적 인자인 `start`와 `end`는 슬라이스 notation으로 해석되고 특정한 시퀀스를 리스트에서 추출할 때 사용됩니다. 
 
-
+<br>
 
 > `list.``count`(*x*)
 >
@@ -84,7 +84,7 @@ append(string)을 해주게 되면 -> list = ['app']으로 추가가 되는 차�
 
 -> `list`에서 인자 `x`가 몇 번 등장하는 지에 대한 값을 반환한다.
 
-
+<br>
 
 > `list.``sort`(***, *key=None*, *reverse=False*)
 >
@@ -92,7 +92,7 @@ append(string)을 해주게 되면 -> list = ['app']으로 추가가 되는 차�
 
 -> 리스트 내 항목들을 정렬한다. (인자들은 sort를 커스터마이즈 할 수 있다.)
 
-
+<br>
 
 > `list.``reverse`()
 >
@@ -100,11 +100,10 @@ append(string)을 해주게 되면 -> list = ['app']으로 추가가 되는 차�
 
 -> 리스트의 요소들을 제자리에서 뒤집는다.
 
-
+<br>
 
 > `list.``copy`()
 >
 > Return a shallow copy of the list. Equivalent to `a[:]`
 
 -> 리스트의 얕은 복사값을 반환합니다.
-

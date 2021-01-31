@@ -17,7 +17,7 @@
 - [[210122] List에 대하여](https://github.com/ssmin0606/TIL_2021/blob/main/python/%5B210122%5D%20List%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
 - [[210126] 파이썬_list_method](https://github.com/ssmin0606/TIL_2021/blob/main/python/%5B210126%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC_list_method.md)
 - [[210126] 파이썬_string_method](https://github.com/ssmin0606/TIL_2021/blob/main/python/%5B210126%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC_string_method.md#210126-%ED%8C%8C%EC%9D%B4%EC%8D%AC_string_method)
-
+- [[210131] 파이썬 - Dictionary에 대하여](https://github.com/ssmin0606/TIL_2021/blob/main/python/%5B210131%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20-%20Dictionary%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md)
 
 ### Algorithm
 ---

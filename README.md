@@ -24,8 +24,9 @@
 - [[210119] 알고리즘 - SWEA 1933. 간단한 N 의 약수](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/[20210119]%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20SWEA%201933.%20%EA%B0%84%EB%8B%A8%ED%95%9C%20N%20%EC%9D%98%20%EC%95%BD%EC%88%98%20.md)
 - [[210124] 알고리즘 - SWEA 2063. 중간값 찾기](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/%5B210124%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20SWEA%201933.%20%EA%B0%84%EB%8B%A8%ED%95%9C%20N%20%EC%9D%98%20%EC%95%BD%EC%88%98%20.md)
 - [[210128] 알고리즘 - 모의고사_프로그래머스](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/%5B210128%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4.md)
-- [[210129] 두 개 뽑아서 더하기 - 프로그래머스](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/%5B210128%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4.md)
+- [[210129] 알고리즘 - 두 개 뽑아서 더하기 - 프로그래머스](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/%5B210128%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4.md)
 - [[210130] 알고리즘 - 완주하지 못한 선수 - 프로그래머스](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/%5B210130%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98%20-%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4.md)
+- [[210201] 알고리즘 - k번째 수_프로그래머스](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/%5B210201%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20k%EB%B2%88%EC%A7%B8%20%EC%88%98_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4.md)
 
 ### CS
 ---

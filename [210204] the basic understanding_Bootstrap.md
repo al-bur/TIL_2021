@@ -81,7 +81,8 @@ https://getbootstrap.com/docs/5.0/getting-started/introduction/ 이 url에서
 </div>
 ```
 
-![image-20210204094207250](C:\Users\ssmin\OneDrive\바탕 화면\TIL\[조사필요] Bootstrap.assets\image-20210204094207250.png)
+![image](https://user-images.githubusercontent.com/64825713/106836639-e5d96500-66dc-11eb-87e8-8031a164e4e7.png)
+
 
 with controls 예시다.
 
@@ -127,7 +128,9 @@ with controls 예시다.
 <input class="btn btn-primary" type="reset" value="Reset">
 ```
 
-![image-20210204094924871](C:\Users\ssmin\OneDrive\바탕 화면\TIL\[조사필요] Bootstrap.assets\image-20210204094924871.png)example
+
+![image](https://user-images.githubusercontent.com/64825713/106836686-f8539e80-66dc-11eb-8afd-64b0264735cd.png)
+
 
 
 
@@ -147,9 +150,7 @@ Toggle a working modal demo by clicking the button below. It will slide down and
 
 해당 기능은 자주 쓰이는 기능이다.
 
-
-
-![image-20210204094535195](C:\Users\ssmin\OneDrive\바탕 화면\TIL\[조사필요] Bootstrap.assets\image-20210204094535195.png)
+![image](https://user-images.githubusercontent.com/64825713/106836704-030e3380-66dd-11eb-8d28-5b0af4daee91.png)
 
 ```html
   <h2 class="text-center">Modal</h2>
@@ -198,7 +199,7 @@ Bootstrap의 기능들끼리 조합해서 만들 수 있다.
 
 #### ** 직접 해본 것
 
-![image-20210204103948188](C:\Users\ssmin\OneDrive\바탕 화면\TIL\[조사필요] Bootstrap.assets\image-20210204103948188.png)
+![image](https://user-images.githubusercontent.com/64825713/106836771-1f11d500-66dd-11eb-83d1-41634fae3745.png)
 
 
 

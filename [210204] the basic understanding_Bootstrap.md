@@ -1,4 +1,4 @@
-## [210204] the basic understanding_Bootstrap 
+# [210204] the basic understanding_Bootstrap 
 
 ### 1. 주제를 고른 이유에 대하여
 

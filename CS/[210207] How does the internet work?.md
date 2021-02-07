@@ -23,8 +23,11 @@
 인터넷은 서로 연결되어있는 장치들을 통해서 수많은 데이터와 미디어를 전송하는 전세계적인 컴퓨터 네트워크이다.  `Internet Protocol(IP)` 와 `Transport Control Protocol(TCP)` 를 따르는 `packet routing network`을 통해서 작동된다.
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64825713/107150215-20265900-69a0-11eb-9c2c-9861861dc225.png" />
+</p>
 
-![explanation about PACKETS](C:\Users\ssmin\OneDrive\바탕 화면\TIL\[210207조사필요] 네트워크.assets\image-20210207231851472.png)
+
 
 
 

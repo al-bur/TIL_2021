@@ -1,4 +1,4 @@
-# [210215] Vanilla Javascript
+# [210215] JavaScript - Vanilla Javascript
 
 ### 1. 주제를 선택한 이유
 

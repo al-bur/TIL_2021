@@ -1,4 +1,4 @@
-# [210311] web_framework - what is Django?
+# [210311] Django - what is Django?
 
 ### 1. 장고는 무엇일까?
 

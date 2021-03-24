@@ -18,6 +18,7 @@
 - [[210126] 파이썬_list_method](https://github.com/ssmin0606/TIL_2021/blob/main/python/%5B210126%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC_list_method.md)
 - [[210126] 파이썬_string_method](https://github.com/ssmin0606/TIL_2021/blob/main/python/%5B210126%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC_string_method.md#210126-%ED%8C%8C%EC%9D%B4%EC%8D%AC_string_method)
 - [[210131] 파이썬 - Dictionary에 대하여](https://github.com/ssmin0606/TIL_2021/blob/main/python/%5B210131%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20-%20Dictionary%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md)
+- [210305] Python - Lambda
 
 
 ### JavaScript
@@ -25,7 +26,10 @@
 - [[210215] 자바스크립트 - Vanilla Javascript.md](https://github.com/ssmin0606/TIL_2021/blob/main/Javascript/%5B210215%5D%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20-%20Vanilla%20Javascript.md)
 - [[210219] 자바 스크립트 - What is JavaScript? (1).md](https://github.com/ssmin0606/TIL_2021/blob/main/Javascript/%5B210219%5D%20%EC%9E%90%EB%B0%94%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20-%20What%20is%20JavaScript%3F%20(1).md)
 - [[210220] 자바스크립트 - What is JavaScript? (2).md](https://github.com/ssmin0606/TIL_2021/blob/main/Javascript/%5B210220%5D%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20-%20What%20is%20JavaScript%3F%20(2).md)
-
+- [210227] 자바스크립트 기본 문법(1)
+- [210228] 자바스크립트 기본 문법(2)
+- [210307] JavaScript - Canvas API
+- [210312] javascript
 
 ### CS
 ---
@@ -35,10 +39,24 @@
 - [[210211] CS - What is HTTP?(1)](https://github.com/ssmin0606/TIL_2021/blob/main/CS/%5B210211%5D%20CS%20-%20What%20is%20HTTP%3F(1).md)
 - [[210213] CS - What is HTTP?(2)](https://github.com/ssmin0606/TIL_2021/blob/main/CS/%5B210213%5D%20CS%20-%20What%20is%20HTTP%3F%20(2).md)
 - [[210217] CS - 선택 정렬](https://github.com/ssmin0606/TIL_2021/blob/main/CS/%5B210217%5D%20CS%20-%20%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.md)
+- [210302] CS - DFS
+- [210303] CS - BFS
+- [210308] 객체지향 프로그래밍이란 무엇인가?
+- [210309] CS - OSI 7 Layer Reference Model(OSI 7 계층)
+- [210315] CS - 함수형 프로그래밍
+- [210319] CS - 프로세스 생성과정
+- [210322] CS - 운영체제
 
 ### HTML, CSS
 ---
 - [[210202] HTML - HTML 태그](https://github.com/ssmin0606/TIL_2021/blob/main/HTML/%5B210202%5D%20HTML%20-%20HTML%20%ED%83%9C%EA%B7%B8.md)
+
+
+### Web_framework
+---
+- [210311] Django - what is Django?
+- [210316] Django - ModelForm
+- [210318] Django - managing static files(1)
 
 
 ### Algorithm
@@ -60,3 +78,12 @@
 - [[210222] 알고리즘 - SWEA 1961. 숫자 배열 회전](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/%5B210222%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20SWEA%201961.%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4%20%ED%9A%8C%EC%A0%84.md)
 - [[210223] 알고리즘 - SWEA 1921. 길찾기](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/%5B210223%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20SWEA%201921.%20%EA%B8%B8%EC%B0%BE%EA%B8%B0.md)
 - [[210224] 알고리즘 - SWEA 4837. 부분집합의 합(재귀 이용)](https://github.com/ssmin0606/TIL_2021/blob/main/Algorithm/%5B210224%5D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20SWEA%204837.%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%95%A9(%EC%9E%AC%EA%B7%80%20%EC%9D%B4%EC%9A%A9).md)
+- [210225] 알고리즘 - SWEA 11315. 오목 판정
+- [210301] 알고리즘 - SWEA 1224. 계산기3
+- [210304] 알고리즘 - SWEA 11634. 피자굽기
+- [210306] 알고리즘 - SWEA 5215.햄버거
+- [210310] 알고리즘 - BOJ 2805. 나무자르기
+- [210313] 알고리즘
+- [210314] 알고리즘 - BOJ 1343.폴리오미노
+- [210317] 알고리즘 - SWEA 1767. 프로세서 연결하기
+- [210324] 알고리즘 - BOJ 2212. 센서

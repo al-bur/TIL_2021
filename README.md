@@ -19,6 +19,7 @@
 - [[210126] 파이썬_string_method](https://github.com/ssmin0606/TIL_2021/blob/main/python/%5B210126%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC_string_method.md#210126-%ED%8C%8C%EC%9D%B4%EC%8D%AC_string_method)
 - [[210131] 파이썬 - Dictionary에 대하여](https://github.com/ssmin0606/TIL_2021/blob/main/python/%5B210131%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20-%20Dictionary%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md)
 - [210305] Python - Lambda
+- [210406] Python - self
 
 
 ### JavaScript
@@ -29,7 +30,7 @@
 - [210227] 자바스크립트 기본 문법(1)
 - [210228] 자바스크립트 기본 문법(2)
 - [210307] JavaScript - Canvas API
-- [210312] javascript
+- [210327] JavaScript - EventListener
 
 ### CS
 ---
@@ -46,6 +47,14 @@
 - [210315] CS - 함수형 프로그래밍
 - [210319] CS - 프로세스 생성과정
 - [210322] CS - 운영체제
+- [210328] CS - 커널
+- [210331] CS - 패킷
+- [210405] CS - DBMS
+- [210407] CS - 병합정렬
+- [210411] CS - RESTful API
+- [210412] CS - 네트워크 접속형태(Topology)
+- [210416] CS - 메모리 구조
+- [210417] CS - 가상머신(운영체제)
 
 ### HTML, CSS
 ---
@@ -54,10 +63,10 @@
 
 ### Web_framework
 ---
-- [210311] Django - what is Django?
-- [210316] Django - ModelForm
-- [210318] Django - managing static files(1)
-
+- [[210311] Django - what is Django?](https://github.com/ssmin0606/TIL_2021/blob/d4300d8f698eef0fca55b60d70354885cee0f67d/web_framework/%5B210311%5D%20Django%20-%20what%20is%20Django%3F.md)
+- [[210316] Django - ModelForm](https://github.com/ssmin0606/TIL_2021/blob/d4300d8f698eef0fca55b60d70354885cee0f67d/web_framework/%5B210316%5D%20Django%20-%20ModelForm.md)
+- [[210318] Django - managing static files(1)](https://github.com/ssmin0606/TIL_2021/blob/d4300d8f698eef0fca55b60d70354885cee0f67d/web_framework/%5B210318%5D%20Django%20-%20managing%20static%20files(1).md)
+- [[210401] Django - login, logout 기능 구현](https://github.com/ssmin0606/TIL_2021/blob/d4300d8f698eef0fca55b60d70354885cee0f67d/web_framework/%5B210401%5D%20Django%20-%20login,%20logout%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84.md)
 
 ### Algorithm
 ---
@@ -83,7 +92,13 @@
 - [210304] 알고리즘 - SWEA 11634. 피자굽기
 - [210306] 알고리즘 - SWEA 5215.햄버거
 - [210310] 알고리즘 - BOJ 2805. 나무자르기
-- [210313] 알고리즘
+- [210313] 알고리즘 - SWEA 2819. 격자판의 숫자 이어 붙이기
 - [210314] 알고리즘 - BOJ 1343.폴리오미노
 - [210317] 알고리즘 - SWEA 1767. 프로세서 연결하기
 - [210324] 알고리즘 - BOJ 2212. 센서
+- [210329] 알고리즘 - BOJ 15903. 카드합체놀이
+- [210402] 알고리즘 - 프로그래머스. 가장 큰 수
+- [210409] 알고리즘 - SWEA. 이진탐색
+- [210413] 알고리즘 - SWEA 10726. 이진수 표현
+- [210413] 알고리즘 - SWEA 1244. 최대상금 (푸는중)
+- [210415] 알고리즘 - SWEA. 전자카트

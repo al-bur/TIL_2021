@@ -22,7 +22,7 @@ MDN WEB Docs를 참고하였다.
 
 <br>
 
-### 2.1 What cna it really do?
+### 2.1 What can it really do?
 
 ---
 

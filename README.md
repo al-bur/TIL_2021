@@ -35,7 +35,7 @@
 ### CS
 ---
 - [[210123] CS - 프로세스, 쓰레드, 가상메모리 (기본개념)](https://github.com/ssmin0606/TIL_2021/blob/main/CS/%5B210123%5D%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%93%B0%EB%A0%88%EB%93%9C%2C%20%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC%20(%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90).md)
-- [[210207] CS - How does the internet work?](https://github.com/ssmin0606/TIL_2021/blob/main/CS/%5B210207%5D%20How%20does%20the%20internet%20work%3F.md)
+- [210207] CS - How does the internet work?
 - [[210208] CS - 버블정렬 & 카운팅 정렬](https://github.com/ssmin0606/TIL_2021/blob/main/CS/%5B210208%5D%20CS%20-%20%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC%20%26%20%EC%B9%B4%EC%9A%B4%ED%8C%85%20%EC%A0%95%EB%A0%AC.md)
 - [[210211] CS - What is HTTP?(1)](https://github.com/ssmin0606/TIL_2021/blob/main/CS/%5B210211%5D%20CS%20-%20What%20is%20HTTP%3F(1).md)
 - [[210213] CS - What is HTTP?(2)](https://github.com/ssmin0606/TIL_2021/blob/main/CS/%5B210213%5D%20CS%20-%20What%20is%20HTTP%3F%20(2).md)

@@ -65,14 +65,14 @@
 
 
 
-- STEP 3: 내 요청(query)가 처리되고 내 `ISP`에 push된다.
-  - 내 `ISP`는 많은 서버들을 보유하고 있는데 이 서버들은 `Network Access Protection(NAP Server) 와 Domain Name Server(DNS) 같은 데이터를 저장하거나 보내주는 역할을 한다. 
-  - 내 브라우저는 내가 `DNS`를 통해서 브라우저에 입력한 도메인 이름에 매칭되는 IP 주소를 찾는다.
-    - 여기서 `DNS`는 내가 브라우저에 입력한 텍스트 형식의 도메인 주소를 숫자 형식인 IP주소로 변환해준다.
+- STEP 3: 사용자 요청(query)이 처리되고 내 `ISP`에 push된다.
+  - 사용자 `ISP`는 많은 서버들을 보유하고 있는데 이 서버들은 `Network Access Protection(NAP Server) 와 Domain Name Server(DNS) 같은 데이터를 저장하거나 보내주는 역할을 한다. 
+  - 사용자 브라우저는 사용자가 `DNS`를 통해서 브라우저에 입력한 도메인 이름에 매칭되는 IP 주소를 찾는다.
+    - 여기서 `DNS`는 사용자가 브라우저에 입력한 텍스트 형식의 도메인 주소를 숫자 형식인 IP주소로 변환해준다.
 
 
 
-- STEP 4: 브라우저가 `Hypertext Transfer Protocol(HTTP)` 요청을 타겟 서버에 보낸다; `TCP/IP`를 이용하여 웹페이지의 복사본을 클라이언트에게 보내라는 요청
+- STEP 4: 브라우저가 `Hypertext Transfer Protocol(HTTP)` 요청을 타겟 서버에 보낸다 -> `TCP/IP`를 이용하여 웹페이지의 복사본을 클라이언트에게 보내라는 요청
   - `HTTP` : 인터넷 커뮤니케이션에 사용되는 언어
   - `HTTPS` : 보안이 강화된 버전의 `HTTP`, 나의 브라우저와 웹사이트들간의 모든 커뮤니케이션이 암호화된다.
 
@@ -82,7 +82,7 @@
 
 
 
-- STEP 6: 내 브라우저가 패킷들을 재조합하면서 웹페이지가 로딩이 된다. 끝!
+- STEP 6: 사용자 브라우저가 패킷들을 재조합하면서 웹페이지가 로딩이 된다. 끝!
 
 
 

@@ -1,0 +1,14 @@
+- react: 뷰를 만들기 위한 라이브러리
+- reactDOM: UI를 실제로 브라우저에 렌더링할 때 사용하는 라이브러리
+- 가상DOM(virtual DOM): 
+- component:
+- state: State is like a component’s memory. It lets a component keep track of some information and change it in response to interactions. For example, a Button might keep track of isHovered state.
+- prop: Props are like arguments you pass to a function. They let a parent component pass data to a child component and customize its appearance. For example, a Form can pass a color prop to a Button.
+- lifecycle:
+- function component:
+- class component:
+- hooks:
+- jsx:
+- 값:
+- 식:
+- 문: 
